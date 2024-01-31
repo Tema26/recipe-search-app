@@ -1,0 +1,15 @@
+.recipe-table {
+   border-collapse: collapse;
+   width: 100%;
+}
+
+.recipe-table th,
+.recipe-table td {
+   border: 1px solid #ddd;
+   padding: 8px;
+   text-align: left;
+}
+
+.recipe-table th {
+   font-size: 14px;
+}
