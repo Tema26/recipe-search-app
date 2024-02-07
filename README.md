@@ -39,12 +39,6 @@ npm run start-server
 
 npm run start-frontend
 
-
-ChatGPT
-Конечно, вот пример простого README-файла для вашего проекта на GitHub:
-
-markdown
-Copy code
 # Recipe Search App
 
 This is a simple web application for searching and managing recipes. Users can input ingredients, and the app will provide recipes based on those ingredients.
